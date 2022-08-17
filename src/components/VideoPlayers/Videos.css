@@ -1,16 +1,16 @@
-.coustom-css{
-    font-size: 20px;
-    padding: 8px;
-    width: 100%;
-    margin-top: 15px;
-    border-radius: 10px;
-    background-color: rgb(0, 0, 0);
-    border: 3px solid white;
-    color: aliceblue;
+.coustom-css {
+  font-size: 20px;
+  padding: 8px;
+  width: 100%;
+  margin-top: 15px;
+  border-radius: 10px;
+  background-color: rgb(0, 0, 0);
+  border: 3px solid white;
+  color: aliceblue;
   display: block;
   align-items: center;
   justify-content: center;
 }
-.video-box-css{
-    border-radius: 15px;
+.video-box-css {
+  border-radius: 15px;
 }
